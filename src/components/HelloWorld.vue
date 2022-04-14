@@ -1,6 +1,7 @@
 <template>
   <v-container>
     <v-row class="text-center">
+      <h1> Hola Commit Desarrollo </h1>
     </v-row>
   </v-container>
 </template>
